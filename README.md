@@ -1,4 +1,5 @@
 Codes from project done in the Hamoye internship
+
 Stage A: Built a linear regression model on Appliances energy prediction data  
 
 Stage B:Exploratory data analysis on dataset provided by food and agriculture organisation of the United Nations
