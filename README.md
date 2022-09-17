@@ -1,4 +1,4 @@
-Codes from project done in the Hamoye internship
+Code from project done in the Hamoye internship
 
 Stage A: Built a linear regression model on Appliances energy prediction data  
 
